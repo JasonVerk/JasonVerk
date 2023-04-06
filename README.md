@@ -1,5 +1,5 @@
 # 💫 About Me:
-👶 Junior developer (React, Angular et NodeJs, Java) - 2020<br>⚙️ Open to work - Open to learn<br>📍 France
+👶 Junior developer (React, Angular et NodeJs, Java) - 2020<br>⚙️ B-hive - Open to learn<br>📍 France
 
 
 ## 🌐 Socials:
